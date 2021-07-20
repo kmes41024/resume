@@ -1,0 +1,31 @@
+th
+{
+	font-size:22px;
+}
+
+iframe
+{
+	width: 95%;
+	height: 600px
+}
+
+pre
+{
+	padding: 0px;
+	font-size: 18px;
+	margin: 0px;
+	border: 0;
+	line-height: 1.7em;
+	background-color: rgba(255,255,255,0);
+}
+
+.resume_td
+{
+	padding-left: 15px;
+}
+
+.edit_td
+{
+	width: 7cm;
+	padding-left: 18px;
+}
